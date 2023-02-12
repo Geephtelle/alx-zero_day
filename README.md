@@ -1,1 +1,1 @@
-This repo helps us to learn about git
+This repo is for ALX
